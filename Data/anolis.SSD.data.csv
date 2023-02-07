@@ -1,0 +1,39 @@
+"spp","ecomorph","island","species","SSD","fSVL","fN","mSVL","mN"
+"A_sagrei","trunk-ground","Cuba","sagrei",0.29,40,140,53.4,426
+"A_homolech","trunk-ground","Cuba","homolechis",0.25,40.7,111,52.4,371
+"A_allogus","trunk-ground","Cuba","allogus",0.28,42.5,108,56.3,262
+"A_cybotes","trunk-ground","Hispaniola","cybotes",0.26,50.8,157,65.9,258
+"A_shrevei","trunk-ground","Hispaniola","shrevei",0.17,46.2,48,54.7,28
+"A_whiteman","trunk-ground","Hispaniola","whitemani",0.21,48.1,18,59.3,19
+"A_lineatop","trunk-ground","Jamaica","lineatopus",0.39,44.2,132,65.2,421
+"A_cristate","trunk-ground","Puerto Rico","cristatellus",0.4,44.6,245,66.4,440
+"A_gundlach","trunk-ground","Puerto Rico","gundlachi",0.36,45.2,28,64.8,50
+"A_cooki","trunk-ground","Puerto Rico","cooki",0.36,41.6,6,59.5,22
+"A_allisoni","trunk-crown","Cuba","allisoni",0.28,60.4,90,80,172
+"A_porcatus","trunk-crown","Cuba","porcatus",0.26,54.5,125,70.9,237
+"A_aliniger","trunk-crown","Hispaniola","aliniger",0.25,45.4,4,58.2,10
+"A_chlorocy","trunk-crown","Hispaniola","chlorocyanus",0.28,54.2,102,72,208
+"A_coelesti","trunk-crown","Hispaniola","coelestinus",0.25,54.6,155,69.9,347
+"A_grahami","trunk-crown","Jamaica","grahami",0.4,44,53,65.5,186
+"A_opalinus","trunk-crown","Jamaica","opalinus",0.2,40.5,129,49.5,252
+"A_evermann","trunk-crown","Puerto Rico","evermanni",0.3,52.4,73,70.7,80
+"A_stratulu","trunk-crown","Puerto Rico","stratulus",0.16,39.9,51,46.7,135
+"A_alutaceu","grass-bush","Cuba","alutaceus",0.08,32.7,111,35.5,103
+"A_ophiolep","grass-bush","Cuba","ophiolepis",0.16,31.2,48,36.6,79
+"A_henderso","grass-bush","Hispaniola","hendersoni",0.18,40.2,86,47.9,165
+"A_olssoni","grass-bush","Hispaniola","olssoni",0.1,40.6,114,44.8,141
+"A_semiline","grass-bush","Hispaniola","semilineatus",0.11,37.2,48,41.6,16
+"A_pulchell","grass-bush","Puerto Rico","pulchellus",0.24,37,98,46.9,143
+"A_poncensi","grass-bush","Puerto Rico","poncensis",0.14,39.6,28,45.6,55
+"A_krugi","grass-bush","Puerto Rico","krugi",0.23,39.3,56,49.7,83
+"A_equestri","crown-giant","Cuba","equestris",0.08,155.3,104,169,132
+"A_ricordii","crown-giant","Hispaniola","ricordi",0.09,138.9,40,151.9,88
+"A_garmani","crown-giant","Jamaica","garmani",0.29,82.5,71,110,85
+"A_cuvieri","crown-giant","Puerto Rico","cuvieri",0.1,119.4,17,131.3,25
+"A_angustic","twig","Cuba","angusticeps",0.14,38.6,60,44.2,41
+"A_insolitu","twig","Hispaniola","insolitus",0.06,39.5,19,42,20
+"A_valencie","twig","Jamaica","valencienni",0.15,68.5,32,79.4,43
+"A_occultus","twig","Puerto Rico","occultus",-0.01,39.2,18,39,7
+"A_loysiana","trunk","Cuba","loysiana",0.13,35.7,15,40.7,20
+"A_breviros","trunk","Hispaniola","brevirostrus",0.17,40.2,33,47.7,25
+"A_distichu","trunk","Hispaniola","distichus",0.14,44.6,303,51.2,217

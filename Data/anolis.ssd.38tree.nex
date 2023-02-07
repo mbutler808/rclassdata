@@ -1,0 +1,89 @@
+#NEXUS
+[R-package APE, Fri Dec  7 20:07:07 2007]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 38;
+	TAXLABELS
+		A_whiteman
+		A_shrevei
+		A_cybotes
+		A_insolitu
+		A_olssoni
+		A_semiline
+		A_cuvieri
+		A_ricordii
+		A_alutaceu
+		A_porcatus
+		A_allisoni
+		A_loysiana
+		A_angustic
+		A_lineatop
+		A_valencie
+		A_grahami
+		A_garmani
+		A_opalinus
+		A_allogus
+		A_homolech
+		A_ophiolep
+		A_sagrei
+		A_distichu
+		A_breviros
+		A_evermann
+		A_stratulu
+		A_krugi
+		A_pulchell
+		A_cooki
+		A_cristate
+		A_gundlach
+		A_poncensi
+		A_occultus
+		A_equestri
+		A_coelesti
+		A_chlorocy
+		A_aliniger
+		A_henderso
+	;
+END;
+BEGIN TREES;
+	TRANSLATE
+		1	A_whiteman,
+		2	A_shrevei,
+		3	A_cybotes,
+		4	A_insolitu,
+		5	A_olssoni,
+		6	A_semiline,
+		7	A_cuvieri,
+		8	A_ricordii,
+		9	A_alutaceu,
+		10	A_porcatus,
+		11	A_allisoni,
+		12	A_loysiana,
+		13	A_angustic,
+		14	A_lineatop,
+		15	A_valencie,
+		16	A_grahami,
+		17	A_garmani,
+		18	A_opalinus,
+		19	A_allogus,
+		20	A_homolech,
+		21	A_ophiolep,
+		22	A_sagrei,
+		23	A_distichu,
+		24	A_breviros,
+		25	A_evermann,
+		26	A_stratulu,
+		27	A_krugi,
+		28	A_pulchell,
+		29	A_cooki,
+		30	A_cristate,
+		31	A_gundlach,
+		32	A_poncensi,
+		33	A_occultus,
+		34	A_equestri,
+		35	A_coelesti,
+		36	A_chlorocy,
+		37	A_aliniger,
+		38	A_henderso
+	;
+	TREE * UNTITLED = [&R] (((1:26.241261,(2:21.31889,3:21.31889):4.922372):58.685295,(4:71.947534,(5:56.831733,6:56.831733):15.115801):12.979023,(7:54.869185,8:54.869186):30.057372,((9:70.545642,(((10:36.604151,11:36.604151):18.155332,12:54.759483):7.164278,13:61.923761):8.62188):11.171156,(((14:49.833637,(15:45.231942,(16:25.675215,(17:21.161317,18:21.161317):4.513898):19.556727):4.601694):17.543877,(19:58.728497,(20:39.684797,(21:20.072286,22:20.072286):19.612512):19.043699):8.649016):11.708266,((23:33.675375,24:33.675375):31.339455,((25:19.614502,26:19.614502):32.77103,((27:32.023689,28:32.023689):14.184029,((29:35.761592,30:35.761591):7.026646,(31:32.451484,32:32.451484):10.336754):3.419481):6.177814):12.629297):14.070949):2.631018):3.209759):7.190137,(33:85.167845,(34:78.985449,(35:58.072167,(36:34.907719,37:34.907719):23.164448):20.913282,38:78.98545):6.182396):6.948849);
+END;

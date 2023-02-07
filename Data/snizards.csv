@@ -1,0 +1,262 @@
+,"species","family","SVL","TL","HL","FLL","HLL","Nfingers","Ntoes","N","ecology","source","PC1","PC2","PC3","morph","eco"
+1,"Agamadon anguliceps","Amphisbaenia",74.7,8.3,3.1,0,0,0,0,1,"burrowing","Zug et al. (2001)",-0.88,-0.41,-2.73,1,1
+2,"Amphisbaena alba","Amphisbaenia",474,40.1,12.6,0,0,0,0,6,"burrowing","Zug et al. (2001)",-1.08,2.06,-1.06,1,1
+3,"Bipes biporus","Amphisbaenia",167.2,16,3.6,6.1,0,5,0,6,"burrowing","Zug et al. (2001)",-0.02,0.57,-2.78,1,1
+4,"Bipes canaliculatus","Amphisbaenia",182.5,29.6,4.5,6.5,0,4,0,3,"burrowing","Zug et al. (2001)",-0.22,0.63,-1.93,1,1
+5,"Bipes tridactyluls","Amphisbaenia",127.5,36,3.7,6,0,3,0,2,"burrowing","Zug et al. (2001)",-0.42,0.03,-1.52,1,1
+6,"Blanus cinereus","Amphisbaenia",174.9,21.8,4.1,0,0,0,0,5,"burrowing","Zug et al. (2001)",-1.13,0.3,-1.67,1,1
+7,"Chirindia swimmertoni","Amphisbaenia",126,14.5,2,0,0,0,0,2,"burrowing","Zug et al. (2001)",-1.16,-0.54,-2.18,1,1
+8,"Diplometopon zarudnyi","Amphisbaenia",148.7,12.3,4.3,0,0,0,0,3,"burrowing","Zug et al. (2001)",-0.94,0.4,-2.38,1,1
+9,"Geocalamus acutus","Amphisbaenia",230.7,26.3,4.5,0,0,0,0,1,"burrowing","Zug et al. (2001)",-1.17,0.57,-1.5,1,1
+10,"Monopeltis capensis","Amphisbaenia",298.7,9.3,4.5,0,0,0,0,2,"burrowing","Zug et al. (2001)",-0.84,1.19,-2.95,1,1
+11,"Rhineura floridana","Amphisbaenia",317.2,16.5,5.4,0,0,0,0,5,"burrowing","Zug et al. (2001)",-0.99,1.21,-2.19,1,1
+12,"Trognophis wiegmanni","Amphisbaenia",157.5,10.9,5.7,0,0,0,0,6,"burrowing","Zug et al. (2001)",-0.83,0.76,-2.53,1,1
+13,"Abronia graminea","Anguidae",96.2,144,13.1,22.9,30.5,5,5,8,"arboreal","Campbell & Frost (1993)",0.87,0.42,0.41,0,0
+14,"Anguis fragilis","Anguidae",142.3,148.1,6.7,0,0,0,0,13,"terrestrial","Arnold & Burton (1978)",-1.63,-0.12,0.97,2,0
+15,"Anniella geronimensis","Anguidae",118.5,51.9,4.3,0,0,0,0,12,"burrowing","Stebbins (1985)",-1.4,-0.33,-0.41,1,1
+16,"Anniella pulchra","Anguidae",137.9,62.9,5,0,0,0,0,20,"burrowing","Stebbins (1985)",-1.42,-0.12,-0.18,1,1
+17,"Barisia imbricata","Anguidae",110.3,139.4,13.8,22,28,5,5,12,"terrestrial","JJW pers. obs.",0.87,0.61,0.33,0,0
+18,"Celestus enneagrammus","Anguidae",72.6,99.2,7.3,11,16.1,5,5,6,"terrestrial (account for genera)","Pianka & Vit (2003), Savage (2002)",0.62,-0.34,0.01,0,0
+19,"Diploglossus bilobatus","Anguidae",70.3,97,7.5,10.7,16.2,5,5,9,"terrestrial ""semi-fossorial""","Savage (2002)",0.63,-0.34,-0.01,0,0
+20,"Diploglossus pleei","Anguidae",87.2,97.6,7.8,9.6,15.3,5,5,2,"terrestrial","Schwartz & Henderson (1991)",0.61,-0.12,-0.05,0,0
+21,"Elgaria coerulea","Anguidae",86.5,149.3,11.4,19.8,27.3,5,5,9,"terrestrial","Stebbins (1985)",0.78,0.16,0.49,0,0
+22,"Elgaria kingii","Anguidae",79.6,165.1,9.3,14.2,19.1,5,5,11,"terrestrial","Stebbins (1985)",0.59,-0.18,0.65,0,0
+23,"Elgaria multicarinata","Anguidae",110.4,204.5,13.5,25.5,32,5,5,11,"terrestrial","Stebbins (1985)",0.79,0.47,0.82,0,0
+24,"Elgaria panamintina","Anguidae",109.9,192.7,13.2,24.6,31.1,5,5,3,"terrestrial","Stebbins (1985)",0.79,0.46,0.75,0,0
+25,"Elgaria paucicarinata","Anguidae",87.6,132.5,11,16.2,23.3,5,5,8,"terrestrial","Stebbins (1985)",0.75,0.16,0.34,0,0
+26,"Gerrhonotus liocephalus","Anguidae",131.7,238.8,15.4,24,28.4,5,5,10,"terrestrial, arboreal","Alvarez del Toro (1982)",0.74,0.69,0.99,0,0
+27,"Mesaspis moreleti","Anguidae",66.8,103.8,8.2,15.1,19,5,5,15,"terrestrial","Alvarez del Toro (1982)",0.72,-0.29,0.07,0,0
+28,"Ophiodes striatus","Anguidae",184.2,311.2,9.7,0,8,0,1,3,"terrestrial","Cei (1993)",-1.26,0.13,2,1,0
+29,"Ophisaurus apodus","Anguidae",321.2,534.2,21,0,2.8,0,1,15,"terrestrial","Arnold & Burton (1978)",-1.39,1.17,2.6,1,0
+30,"Ophisaurus attenuatus","Anguidae",200.2,508.7,13.2,0,0,0,0,13,"terrestrial","refs. in Wiens & Slingluff (2001)",-1.87,0.39,2.57,1,0
+31,"Ophisaurus harti","Anguidae",205.2,317.5,11,0,0,0,0,12,,,-1.76,0.41,1.92,1,
+32,"Ophisaurus koellikeri","Anguidae",183.3,333,12,0,4.4,0,1,4,"terrestrial, cryptic, burrowing","Schleich et al. (1996)",-1.31,0.3,2.1,1,0
+33,"Ophisaurus ventralis","Anguidae",212.7,419.6,13.8,0,0,0,0,11,"terrestrial","refs. in Wiens & Slingluff (2001)",-1.8,0.56,2.3,1,0
+34,"Sauresia agasepsoides","Anguidae",60,61,4,3.4,6.8,4,4,3,"terrestrial","Schwartz & Henderson (1991)",0.2,-1.02,-0.49,1,0
+35,"Wetmorena haetiana","Anguidae",68.7,72,6.2,6.9,11.1,4,4,14,"terrestrial","Schwartz & Henderson (1991)",0.43,-0.47,-0.33,0,0
+36,"Chaemasaura anguina","Cordylidae",121.6,444.7,9.3,3.9,7.2,1,1,6,"terrestrial, grass-swimming","Branch (1998)",-0.82,-0.2,2.21,2,0
+37,"Cordylus cataphractus","Cordylidae",89,86.1,15.1,29.8,39.4,5,5,6,"saxicolous","Branch (1998)",1.16,0.7,-0.26,0,0
+38,"Cordylus cordylus","Cordylidae",82.4,87.8,13.1,26.8,39.1,5,5,5,"saxicolous","Branch (1998)",1.1,0.48,-0.21,0,0
+39,"Cordylus jordani","Cordylidae",93.6,114.2,14.7,32.9,46,5,5,4,"saxicolous","Branch (1998)",1.1,0.63,0.09,0,0
+40,"Cordylus warreni","Cordylidae",108.6,127.3,17.5,34.1,50.3,5,5,5,"saxicolous","Branch (1998)",1.13,0.9,0.2,0,0
+41,"Platysaurus rhodesianus","Cordylidae",97.3,141.6,14.7,37.3,51.4,5,5,8,"saxicolous (for genus)","Branch (1998)",1.07,0.61,0.35,0,0
+42,"Pseudocordylus microlepidotus","Cordylidae",122.4,159.2,20.3,40.3,57.2,5,5,7,"saxicolous","Branch (1998)",1.14,1.09,0.46,0,0
+43,"Dibamus novaeguineae","Dibamidae",128.3,16.4,2.6,0,1.1,0,0.4,8,"burrowing","Pianka and Vitt (2003)",-0.93,-0.35,-1.97,1,0
+44,"Coleonyx elegans","Gekkonidae",76.9,75.5,12.9,24.7,31,5,5,4,"terrestrial","Lee (1996)",1.09,0.44,-0.39,0,0
+45,"Diplodactylus damaeus","Gekkonidae",50.4,44.1,8.6,14.2,20.6,5,5,2,"terrestrial, arboreal (for genus)","Cogger (1992)",1.01,-0.21,-0.96,0,0
+46,"Gecko gekko","Gekkonidae",146.2,132.5,25.7,37.1,44.3,5,5,4,"arboreal","Wiens, pers. obs.",1.2,1.53,0.19,0,0
+47,"Gonatodes albogularis","Gekkonidae",39.2,47.8,6.8,12.1,17,5,5,8,"arboreal","Savage (2002)",0.87,-0.71,-0.79,0,0
+48,"Oedura coggeri","Gekkonidae",71.3,43.8,11.9,17.1,21.1,5,5,5,"saxicolous, arboreal","Cogger (1992)",1.12,0.44,-1.07,0,0
+49,"Teratoscincus scincus","Gekkonidae",96.7,57.1,17.4,32.8,44.5,5,5,6,"terrestrial, burrowing","Pianka and Vitt (2003)",1.36,1.07,-0.82,0,0
+50,"Angolossaurus skoogi","Gerrhosauridae",132.4,119.3,17.1,38,53.8,5,5,4,"terrestrial, BURROWING","Branch (1998)",1.17,1.1,0.05,0,0
+51,"Cordylosaurus trivittata","Gerrhosauridae",41,75.4,5,9.4,14.8,5,5,4,"terrestrial, saxicolous","Branch (1998)",0.59,-1.15,-0.21,0,0
+52,"Gerrhosaurus major","Gerrhosauridae",210.3,271.3,27.5,51.1,71,5,5,7,"terrestrial","Branch (1998)",1.11,1.72,1.01,0,0
+53,"Gerrhosaurus nigrolineatus","Gerrhosauridae",96.8,241.3,14.2,22.9,43.5,5,5,8,"terrestrial","Branch (1998)",0.77,0.32,1.11,0,0
+54,"Tetradactylus africanus","Gerrhosauridae",86.3,268.2,7.7,1.3,3.9,1,1,1,"terrestrial, grass-swimming","Branch (1998)",-0.93,-0.61,1.71,2,0
+55,"Tetradactylus seps","Gerrhosauridae",51.6,94.2,6,9.3,17,5,5,5,"terrestrial, grass-swimming","Branch (1998)",0.57,-0.84,0.04,0,0
+56,"Tetradactylus tetradactylus ","Gerrhosauridae",66.2,194.2,5.8,6.1,7.5,4,4,2,"terrestrial, grass-swimming","Branch (1998)",0.02,-0.94,0.99,2,0
+57,"Tracheloptychus madagascariensis","Gerrhosauridae",55.4,103.8,9.2,17.8,38.6,5,5,5,"terrestrial (family account0","Pianka & Vit (2003)",0.88,-0.33,0.14,0,0
+58,"Zonosaurus ornatus","Gerrhosauridae",121.5,163.2,16.6,25.9,47.9,5,5,4,"terrestrial (family account0","Pianka & Vit (2003)",0.97,0.84,0.53,0,0
+59,"Alopoglossus atriventrils","Gymnophthalmidae",45.4,68.6,7.2,13.8,21.1,5,5,6,"terrestrial, leaf litter","Vitt & de la Torre (1996)",0.82,-0.63,-0.36,0,0
+60,"Alopoglossus carinicaudatus","Gymnophthalmidae",54.9,93,7.8,14.3,22.2,5,5,5,"as per congeners",,0.76,-0.49,-0.01,0,0
+61,"Alopoglossus copii","Gymnophthalmidae",51.6,88.6,7.6,14.9,25.5,5,5,2,"terrestrial, leaf litter","Duellman & Mendelson (1995)",0.79,-0.54,-0.06,0,0
+62,"Arthrosaura kockii","Gymnophthalmidae",48.5,81.7,7.6,14.5,22.9,5,5,3,,,0.8,-0.58,-0.15,0,
+63,"Arthrosaura reticulata","Gymnophthalmidae",59.1,98.2,7.8,15.1,25.3,5,5,6,"terrestrial, semi-aquatic, leaf litter","Vitt & de la Torre (1996)",0.77,-0.43,0.04,0,0
+64,"Bachia bresslaui","Gymnophthalmidae",98.6,142,6.1,2.7,3,1,1,1,"BURROWING (for genus)","Duellman (2005)",-0.71,-0.42,0.73,1,1
+65,"Bachia dorbignyi","Gymnophthalmidae",63.2,95.2,3.4,2.2,0.8,3,1,3,"BURROWING (for genus)","Duellman (2005)",-0.62,-1.23,0.1,1,1
+66,"Bachia flavescens","Gymnophthalmidae",65.8,88.4,3.9,1.9,1.8,1,1,5,"BURROWING (for genus)","Duellman (2005)",-0.76,-1.08,0.2,1,1
+67,"Calyptommatus leiolepis","Gymnophthalmidae",53.3,38,3.3,0,3.3,0,1,4,"BURROWING","Pianka & Vit (2003)",-0.93,-1.29,-0.54,1,1
+68,"Calyptommatus nicterus","Gymnophthalmidae",60.7,44.5,3.4,0,3.2,0,1,4,"BURROWING","Pianka & Vit (2003)",-0.98,-1.2,-0.37,1,1
+69,"Calyptommatus sinebrachiatus","Gymnophthalmidae",57.5,41.4,3.4,0,2.8,0,1,4,"BURROWING","Pianka & Vit (2003)",-0.97,-1.22,-0.45,1,1
+70,"Cercosaura argulus","Gymnophthalmidae",42.1,89.6,7.2,14.1,18.7,5,5,6,"terrestrial, arboreal","Duellman (2005)",0.73,-0.8,0.01,0,0
+71,"Cercosaura eigenmanni","Gymnophthalmidae",40.8,51.9,6.7,13.1,17.9,5,5,3,"terrestrial","Duellman (2005)",0.86,-0.71,-0.71,0,0
+72,"Cercosaura ocellata","Gymnophthalmidae",48.7,129.9,7.3,16.6,23.9,5,5,4,"terrestrial, arboreal","Duellman (2005)",0.68,-0.76,0.45,0,0
+73,"Cercosaura quadrilineatus","Gymnophthalmidae",39.9,89.9,5.1,10.6,13.9,5,5,3,"terrestrial as per congeners",,0.55,-1.21,0.02,0,0
+74,"Cercosaura schreibersi","Gymnophthalmidae",39.8,86.2,5.3,10.7,13.9,5,5,5,"terrestrial, leaf-litter, grass clumps","Vitt (1991)",0.57,-1.16,-0.03,0,0
+75,"Colobodactylus dalcyanus","Gymnophthalmidae",38.5,74.5,4.4,7.6,11.1,4,5,2,"under rocks (terrestrial)","Vanzolini & Ramos (1977)",0.42,-1.36,-0.16,0,0
+76,"Colobodactylus tanuayi","Gymnophthalmidae",51.8,123.1,5.9,9.7,17.5,4.8,5,4,"as per congeners",,0.48,-0.95,0.4,0,0
+77,"Colobosaura modesta","Gymnophthalmidae",45.4,103.8,5.5,9.1,16.5,5,5,6,,,0.51,-1.08,0.2,0,
+78,"Ecpleopus affinis","Gymnophthalmidae",48.4,87.3,6.1,13.3,20.1,5,5,4,,,0.69,-0.82,-0.07,0,
+79,"Gymnophthalmus leucomystax","Gymnophthalmidae",36.4,61.2,4,8.1,9.6,4,5,8,"terrestrial, leaf litter (for G. speciosus)","Savage (2002)",0.45,-1.42,-0.42,0,0
+80,"Heterodactylus imbricatus","Gymnophthalmidae",87.6,189.1,7.9,11.5,22.6,4.8,5,4,"terrestrial, leaf-litter  (burrows?)","Marques & Steinmetz (2004)",0.48,-0.32,0.83,0,0
+81,"Iphisa elegans","Gymnophthalmidae",54.7,113,6.3,9.6,16.6,5,5,4,"terrestrial, leaf litter","Vitt & de la Torre (1996)",0.53,-0.81,0.27,0,0
+82,"Leposooma percarinatum","Gymnophthalmidae",34.7,56,4.9,10,12.6,5,5,7,"terrestrial, leaf litter (for L. southi)","Savage (2002)",0.67,-1.21,-0.57,0,0
+83,"Micrablepharus maximiliani","Gymnophthalmidae",39.2,66.7,5,9.8,15,4,5,7,"terrestrial, grass clumps, leaf litter","Vitt (1991)",0.57,-1.15,-0.32,0,0
+84,"Neusticurus ecpleopus","Gymnophthalmidae",59.7,93.6,8.4,17.2,27.1,5,5,9,"semi-aquatic ","Vitt & de la Torre (1996)",0.84,-0.32,-0.03,0,0
+85,"Neusticurus rudis","Gymnophthalmidae",72.5,124.5,11.5,22.6,34.7,5,5,4,"semi-aquatic (for genus)","Savage (2002)",0.9,0.09,0.29,0,0
+86,"Notobachia ablephara","Gymnophthalmidae",52.4,52,3.3,1.1,5.5,1,2,2,"burrowing","Pianka & Vit (2003)",-0.45,-1.34,-0.37,1,1
+87,"Pholidobolus montium","Gymnophthalmidae",50.9,80.2,6.4,14.3,22.2,5,5,6,"terrestrial","JJW, pers. obs.",0.76,-0.69,-0.2,0,0
+88,"Placosoma glabellum","Gymnophthalmidae",53.1,125.1,7.4,14.7,19.9,5,5,4,"arboreal, terrestrial leaf-litter","Marques and Steinmetz (2004)",0.64,-0.67,0.38,0,0
+89,"Procellosaurinus erythrocercus","Gymnophthalmidae",27.5,42.4,3.3,5.8,9.8,4,5,4,"burrowing","Pianka & Vit (2003)",0.47,-1.77,-0.81,0,1
+90,"Procellosaurinus tetradactylus","Gymnophthalmidae",26,38.2,3.1,5.3,9.4,4,5,3,"burrowing","Pianka & Vit (2003)",0.47,-1.85,-0.92,0,1
+91,"Proctoporus bolivianus","Gymnophthalmidae",57,85.5,6.7,13.3,19.4,5,5,8,"terrestrial as per congeners","JJW, pers. obs.",0.72,-0.57,-0.14,0,0
+92,"Proctoporus simoterus","Gymnophthalmidae",64.5,58,6.8,12,15.5,5,5,8,"terrestrial as per congeners","JJW, pers. obs.",0.79,-0.32,-0.69,0,0
+93,"Psilophthalmus paeminosus","Gymnophthalmidae",32,43.2,3.2,4,7.5,4,5,3,"burrowing","Pianka & Vit (2003)",0.36,-1.7,-0.8,0,1
+94,"Ptychoglossus brevifrontalis","Gymnophthalmidae",51.9,84.8,6.4,10.4,18.5,5,5,5,"terrestrial","Duellman (2005)",0.65,-0.73,-0.1,0,0
+95,"Rhachisaurus brachylepis","Gymnophthalmidae",60.1,134,4.9,5.7,10.4,4,4,1,,,0.14,-1.06,0.53,1,
+96,"Tretioscincus agilis","Gymnophthalmidae",60.3,85,8.5,17.2,26.4,5,5,2,,,0.87,-0.26,-0.16,0,
+97,"Vanzosaura rubricauda","Gymnophthalmidae",29.6,39,3.4,5.4,9.9,4,5,5,"terrestrial","Pianka & Vit (2003)",0.49,-1.65,-0.93,0,0
+98,"Heloderma suspectum","Helodermatidae",300.3,124.3,29.3,75.2,82.1,5,5,5,"terrestrial, climbing, digging","Stebbins (1985), Zug et al. (2001)",1.48,2.44,-0.16,0,0
+99,"Basiliscus basiliscus","Iguania",163.9,454.3,30.2,64.9,138.9,5,5,3,"arboreal, semi-aquatic","Savage (2002)",1.12,1.43,1.77,0,0
+100,"Calotes versicolor","Iguania",83.5,257.2,14.1,39.6,61.9,5,5,5,"arboreal","Pianka and Vitt (2003)",0.91,0.22,1.18,0,0
+101,"Dipsosaurus dorsalis","Iguania",123.1,226.6,16.2,41.6,79.7,5,5,6,"terrestrial","JJW, Stebbins (1985)",1.03,0.77,0.91,0,0
+102,"Enyalioides laticeps","Iguania",112.1,192.3,22,53.3,89.4,5,5,5,"arboreal, terrestrial","Wiens & Etheridge (2003)",1.22,1.06,0.73,0,0
+103,"Gambelia wislizenii","Iguania",100.2,193.7,17,36.6,69.6,5,5,6,"terrestrial","JJW, Stebbins (1985)",1.05,0.66,0.78,0,0
+104,"Leiocephalus carinatus","Iguania",108.1,154.6,17.1,38.3,65.2,5,5,4,"terrestrial","Schwartz & Henderson (1991)",1.12,0.82,0.46,0,0
+105,"Leiolepis belliana","Iguania",120.9,255.3,16.8,38.7,72.6,5,5,4,"terrestrial, burrowing","Pianka and Vitt (2003)",0.97,0.73,1.09,0,0
+106,"Phrynocephalus versicolor","Iguania",52.4,58.4,8.3,22,36.6,5,5,8,"terrestrial, burrowing","Pianka and Vitt (2003)",1.08,-0.25,-0.64,0,0
+107,"Polychrus marmoratus","Iguania",129.3,321.3,19.4,42.2,54,5,5,6,"arboreal","Savage (2002)",0.91,0.86,1.36,0,0
+108,"Urosaurus ornatus","Iguania",48.9,71.8,7.7,17.2,26.5,5,5,7,"saxicolous, arboreal","JJW, Stebbins (1985)",0.9,-0.49,-0.34,0,0
+109,"Meroles  cuneirostris","Lacertidae",50.9,81.2,10.2,17.9,38.1,5,5,4,"terrestrial","Branch (1998)",0.98,-0.22,-0.15,0,0
+110,"Podarcis sicula","Lacertidae",71.4,115.7,9.9,19.5,32.1,5,5,6,"terrestrial, saxicolous, arboreal","Arnold & Burton (1978)",0.85,-0.06,0.2,0,0
+111,"Psammodromus hispanicus","Lacertidae",37.5,61.4,6.5,12.8,21.4,5,5,6,"terrestrial","Arnold & Burton (1978)",0.82,-0.87,-0.45,0,0
+112,"Takydromus smaragdinus","Lacertidae",48.2,151.3,7.7,17.2,23.8,5,5,9,"arboreal, grass-swimming","Pianka & Vit (2003)",0.65,-0.77,0.65,0,0
+113,"Lanthanotus borneensis","Lanthanotidae",169,188.6,13.3,26.1,33,5,5,5,"semi-aquatic, burrowing","Zug et al. (2001)",0.82,0.88,0.59,0,0
+114,"Aprasia pseudopulchella","Pygopodidae",140.1,84.1,3,0,0,0,0,1,"burrowing","Cogger (1992)",-1.63,-0.69,0.15,1,1
+115,"Aprasia pulchella","Pygopodidae",97.8,72.7,2.7,0,0.2,0,0.3,3,"burrowing","Cogger (1992)",-1.5,-1.1,0.06,1,1
+116,"Aprasia repens","Pygopodidae",96.4,46.1,2.6,0,0.2,0,0.4,11,"burrowing","Cogger (1992)",-1.35,-1,-0.54,1,1
+117,"Aprasia striolata","Pygopodidae",91.8,58.8,2.9,0,0.4,0,1,1,"burrowing","Cogger (1992)",-1.27,-1.07,-0.18,1,1
+118,"Delma australis","Pygopodidae",70,148,4.2,0,2.6,0,1,1,"terrestrial, under cover, in spinifex","Cogger (1992)",-1.34,-1.3,1.19,2,0
+119,"Delma borea","Pygopodidae",67.8,183.5,4.6,0,2.5,0,1,7,"terrestrial (for genus)","Cogger (1992)",-1.39,-1.32,1.49,2,0
+120,"Delma fraseri","Pygopodidae",90.4,281.6,6.2,0,3.5,0,1,6,"terrestrial, cryptic","Cogger (1992)",-1.42,-0.92,2.01,2,0
+121,"Delma grayi","Pygopodidae",84.8,330,6.2,0,5,0,1,1,"terrestrial, in spinifex","Cogger (1992)",-1.43,-1.04,2.25,2,0
+122,"Delma impar","Pygopodidae",95.9,175.1,5.8,0,2.9,0,1,1,"terrestrial, under cover","Cogger (1992)",-1.31,-0.76,1.36,2,0
+123,"Delma inornata","Pygopodidae",91.8,219.6,6.3,0,5.2,0,1,1,"terrestrial, under cover, in grass","Cogger (1992)",-1.29,-0.8,1.69,2,0
+124,"Delma molleri","Pygopodidae",68.8,188.2,5.1,0,3,0,1,2,"terrestrial (for genus)","Cogger (1992)",-1.36,-1.22,1.54,2,0
+125,"Delma nasuta","Pygopodidae",96.4,350,7.4,0,5,0,1,1,"terrestrial, in grass","Cogger (1992)",-1.41,-0.77,2.31,2,0
+126,"Delma tincta","Pygopodidae",72.5,202.9,4.7,0,2.1,0,1,5,"terrestrial ""sometimes burrows""","Cogger (1992)",-1.44,-1.27,1.6,2,0
+127,"Lialis burtoni","Pygopodidae",210.3,241.9,12.6,0,0.5,0,0.4,7,"terrestrial, vegetation","Cogger (1992)",-1.49,0.62,1.58,2,0
+128,"Lialis jicarii","Pygopodidae",249.8,366.8,13.7,0,0.8,0,0.4,8,"terrestrial (for genus)","Cogger (1992)",-1.58,0.71,2.1,2,0
+129,"Pletholax gracilis","Pygopodidae",60.4,211,3.8,0,1.2,0,1,1,"grass-swimming","Pianka & Vit (2003)",-1.55,-1.66,1.68,2,0
+130,"Pygopus lepidopus","Pygopodidae",146.3,288.2,8.6,0,8.5,0,1,4,"terrestrial","Cogger (1992)",-1.25,-0.17,1.96,2,0
+131,"Pygopus nigriceps","Pygopodidae",150.9,320.1,7.6,0,6.1,0,1,1,"terrestrial","Cogger (1992)",-1.36,-0.3,2.07,2,0
+132,"Acontias litoralis","Scincidae",114,27.4,3.6,0,0,0,0,13,"BURROWING","Branch (1998)",-1.23,-0.31,-1.26,1,1
+133,"Acontias meleagris","Scincidae",197.9,40.6,6,0,0,0,0,10,"BURROWING","Branch (1998)",-1.25,0.55,-0.85,1,1
+134,"Acontias percivali","Scincidae",207,31.2,7.1,0,0,0,0,11,"BURROWING","Branch (1998)",-1.12,0.84,-1.2,1,1
+135,"Acontophiops lineatus","Scincidae",166.9,33,5.3,0,0,0,0,8,"BURROWING","Branch (1998)",-1.21,0.35,-1.09,1,1
+136,"Amphiglossus astrolabi","Scincidae",190.5,273.3,17.9,32.6,44.7,5,5,3,"semi-aquatic","Glaw & Vences (1994)",0.86,1.17,1.05,0,0
+137,"Amphiglossus igneocaudatus","Scincidae",52.8,56.7,5.3,7,16.4,5,5,2,"terrestrial","Glaw & Vences (1994)",0.65,-0.79,-0.62,0,0
+138,"Amphiglossus intermedius","Scincidae",68,63.1,5.3,9.3,18.3,5,5,2,"terrestrial (leaf-litter); for genus","Glaw & Vences (1994)",0.68,-0.56,-0.58,0,0
+139,"Amphiglossus macrocercus","Scincidae",68.7,116.9,7.7,15.1,22.7,5,5,4,"terrestrial, arboreal?","Glaw & Vences (1994)",0.69,-0.36,0.22,0,0
+140,"Amphiglossus melanopleura","Scincidae",43.7,72.3,4.5,7.4,13.3,5,5,3,"terrestrial (leaf-litter)","Glaw & Vences (1994)",0.52,-1.2,-0.27,0,0
+141,"Amphiglossus melanurus","Scincidae",65.2,109,5.7,9,14.9,5,5,3,"terrestrial (leaf-litter)","Glaw & Vences (1994)",0.49,-0.73,0.16,0,0
+142,"Amphiglossus mouroundavae","Scincidae",57.9,88.7,6.1,13.2,19.4,5,5,1,"terrestrial, under cover","Glaw & Vences (1994)",0.68,-0.66,-0.11,0,0
+143,"Amphiglossus ornaticeps","Scincidae",55,76.2,4.1,4.3,7.8,5,5,1,"terrestrial (leaf-litter)","Glaw & Vences (1994)",0.31,-1.15,-0.23,0,0
+144,"Amphiglossus punctatus","Scincidae",60.7,89.1,6.6,13.2,19.4,5,5,2,"terrestrial (leaf-litter); arboreal?","Glaw & Vences (1994)",0.7,-0.54,-0.11,0,0
+145,"Amphiglossus stumpffi","Scincidae",86.9,87.8,6.3,12.7,21.6,5,5,2,"terrestrial (leaf-litter); for genus","Glaw & Vences (1994)",0.7,-0.25,-0.23,0,0
+146,"Amphiglossus tsaratananensis","Scincidae",84.1,105.4,7.5,11.9,17.8,5,5,1,"terrestrial (leaf-litter); for genus","Glaw & Vences (1994)",0.64,-0.19,0.04,0,0
+147,"Amphiglossus waterlotti","Scincidae",121,181.3,13.1,23.7,31.4,5,5,1,"terrestrial (leaf-litter); for genus","Glaw & Vences (1994)",0.8,0.56,0.64,0,0
+148,"Anomalopus mackayi","Scincidae",107,113,5.8,7.5,6,2,1,2,"burrowing","Cogger (1992)",-0.25,-0.19,0.22,1,1
+149,"Anomalopus swansoni","Scincidae",90.44,69.78,4.3,0,0,0,0,9,"burrowing","Cogger (1992)",-1.49,-0.69,0.07,1,1
+150,"Brachymeles gracilis","Scincidae",75,75.2,6.2,8.3,13.8,5,5,14,"burrowing","Brown (1954)",0.6,-0.4,-0.36,0,1
+151,"Brachymeles talinis","Scincidae",108.4,104.5,8.5,12.5,20.9,5,5,8,"burrowing","Brown (1954)",0.7,0.17,-0.03,0,1
+152,"Calyptotis scutirostrum","Scincidae",43.6,59.2,4.72,8,11.2,5,5,5,"burrowing","Cogger (1992)",0.58,-1.08,-0.54,0,1
+153,"Chalcides chalcides","Scincidae",136,151.1,7.5,5.6,8.3,3,3,7,"terrestrial, cryptic, ""grass-swimming""?","Schleich et al. (1996)",0.01,0.07,0.53,1,0
+154,"Chalcides mionecton","Scincidae",86.8,67.2,6.5,6.5,15.1,4,4,3,"burrowing, cryptic","Schleich et al. (1996)",0.49,-0.19,-0.47,0,0
+155,"Chalcides ocellatus","Scincidae",119.5,121.9,11.4,22.2,30.3,5,5,5,"terrestrial, burrowing","Arnold & Burton (1978)",0.88,0.55,0.11,0,0
+156,"Chalcides polylepis","Scincidae",109.3,130.3,10.3,21.2,29,5,5,4,"terrestrial, cryptic","Schleich et al. (1996)",0.82,0.34,0.22,0,0
+157,"Coeranoscincus reticulatus","Scincidae",181,210.5,8.55,11,11.5,3,3,2,"burrowing","Cogger (1992)",0.1,0.41,0.83,1,0
+158,"Ctenotus leonhardii","Scincidae",73.2,141.8,9.28,22.6,37,5,5,5,"terrestrial (for genus)","Cogger (1992)",0.82,-0.15,0.44,0,0
+159,"Ctenotus pantherinus","Scincidae",87,115,9.5,24,33,5,5,1,"terrestrial (for genus)","Cogger (1992)",0.89,0.12,0.11,0,0
+160,"Ctenotus robustus","Scincidae",83,167.38,10.81,23,36.5,5,5,8,"terrestrial (for genus)","Cogger (1992)",0.8,0.05,0.64,0,0
+161,"Egernia whitii","Scincidae",79.86,124.14,11.09,21.57,30,5,5,7,"saxicolous, terrestrial","Cogger (1992)",0.87,0.14,0.26,0,0
+162,"Eremiascincus richardsonii","Scincidae",91.25,121,12.03,24.25,31,5,5,4,"burrowing (sand-swimming)","Cogger (1992)",0.92,0.36,0.18,0,0
+163,"Eugongylus rufescens","Scincidae",118.57,188.71,12.63,26.71,35.86,5,5,7,"terrestrial","Cogger (1992)",0.83,0.51,0.69,0,0
+164,"Eulamprus amplus","Scincidae",98,129.75,13.72,29.5,42.25,5,5,4,"saxicolous, terrestrial","Cogger (1992)",1.01,0.55,0.25,0,0
+165,"Eulamprus murrayi","Scincidae",87.5,117.75,11.78,24,33.5,5,5,4,"terrestrial","Cogger (1992)",0.93,0.31,0.16,0,0
+166,"Eulamprus quoyii","Scincidae",82.6,132.8,12.2,24.2,37.2,5,5,5,"terrestrial","Cogger (1992)",0.92,0.25,0.34,0,0
+167,"Eumeces schneideri","Scincidae",126.5,205.3,14.2,33,46.9,5,5,13,"terrestrial, cryptic","Schleich et al. (1996)",0.91,0.67,0.77,0,0
+168,"Feylinia polylepis","Scincidae",130.6,49.9,4.7,0,0,0,0,13,"terrestrial (not burrowing)  for genus","Spawls et al. (2002)",-1.36,-0.14,-0.48,1,0
+169,"Glaphyromorphus gracilipes","Scincidae",70.33,111.67,6.03,10,15.33,5,5,3,"burrowing","Cogger (1992)",0.52,-0.61,0.17,0,1
+170,"Glaphyromorphus isolepis","Scincidae",56.73,86.27,7.04,13.36,19.82,5,5,11,"terrestrial","Cogger (1992)",0.73,-0.53,-0.12,0,0
+171,"Gnypetoscincus queenslandiae","Scincidae",60,76,8.23,17.57,26.14,5,5,7,"terrestrial, cryptic","Cogger (1992)",0.9,-0.26,-0.32,0,0
+172,"Gongylomorphus bojeri","Scincidae",47,66.9,6.6,12.2,19.9,5,5,1,"terrestrial","Vinson & Vinson (1969)",0.78,-0.69,-0.4,0,0
+173,"Hakaria simonyi","Scincidae",45.3,49.3,3.8,5,9.4,5,5,2,,,0.48,-1.23,-0.77,0,
+174,"Hemiergis peronii","Scincidae",49.5,81.5,4.58,8,11.5,4,4,4,"burrowing","Cogger (1992)",0.36,-1.09,-0.12,1,0
+175,"Janetaescincus braueri","Scincidae",52.8,61.5,5.3,8,12.4,5,5,1,,,0.61,-0.81,-0.53,0,
+176,"Lamprolepis smaragdinus","Scincidae",85,121.5,14.28,31.25,38.5,5,5,4,"arboreal","Pianka & Vitt (2003)",1.04,0.49,0.2,0,0
+177,"Lerista bipes","Scincidae",48,39,3.1,0,8,0,2,1,"burrowing","Cogger (1992)",-0.72,-1.5,-0.45,1,1
+178,"Lerista bougainvilli","Scincidae",52.67,53.33,4.67,7.83,12.83,5,5,6,"cryptic, terrestrial","Cogger (1992)",0.63,-0.88,-0.73,0,0
+179,"Melanoseps occidentalis","Scincidae",120.5,39,4,0,0,0,0,10,"burrowing","Spawls et al. (2002)",-1.32,-0.28,-0.8,1,1
+180,"Mesoscincus managuae","Scincidae",86.2,140.5,9.2,17.9,24,5,5,2,,,0.71,-0.03,0.4,0,
+181,"Mesoscincus schwartzei","Scincidae",108.1,174.4,12.4,27.1,37,5,5,6,"terrestrial","Lee (1996)",0.86,0.43,0.61,0,0
+182,"Morethia butleri","Scincidae",44.71,62.43,5.53,11.43,18.29,5,5,7,"terrestrial","Cogger (1992)",0.74,-0.88,-0.49,0,0
+183,"Nangura spinosa","Scincidae",91.2,77.4,13.9,27.8,35.6,5,5,5,"terrestrial",,1.14,0.68,-0.41,0,0
+184,"Notoscincus ornatus","Scincidae",36.14,52.57,4.67,9.86,14.57,5,5,7,"terrestrial","Cogger (1992)",0.69,-1.2,-0.66,0,0
+185,"Ophiomorus punctatissimus","Scincidae",74.8,81.8,3.9,0,0,0,0,2,"burrowing","Arnold & Burton (1978)",-1.56,-1.01,0.32,1,1
+186,"Ophioscincus ophioscincus","Scincidae",92.25,76.5,4.2,0,0,0,0,4,"BURROWING","Cogger (1992)",-1.52,-0.73,0.18,1,1
+187,"Pamelaescincus gardineri","Scincidae",63.6,73.7,8.1,13.2,18.8,5,5,7,,,0.8,-0.24,-0.35,0,
+188,"Paracontias brocchii","Scincidae",118.2,81.9,5.5,0,0,0,0,2,"under stones","Glaw & Vences (1994)",-1.49,-0.27,0.22,1,0
+189,"Paracontias hildebrandti","Scincidae",47.2,44.1,2.3,0,0,0,0,3,"under stones","Glaw & Vences (1994)",-1.48,-1.72,-0.41,1,0
+190,"Paracontias holomelas","Scincidae",115.9,87.1,6.4,0,0,0,0,2,"under stones","Glaw & Vences (1994)",-1.47,-0.17,0.33,1,0
+191,"Plestiodon egregius","Scincidae",47,81.4,4.9,8.8,13.3,5,5,35,"terrestrial, cryptic, burrowing","Conant & Collins (1991)",0.55,-1.09,-0.25,0,0
+192,"Plestiodon elegans","Scincidae",84.3,151.9,11,24.5,34.2,5,5,13,,,0.84,0.13,0.5,0,
+193,"Plestiodon fasciatus","Scincidae",66.7,112.8,9,19.5,27.1,5,5,40,"terrestrial, arboreal","Conant & Collins (1991)",0.82,-0.2,0.17,0,0
+194,"Plestiodon inexpectatus","Scincidae",71.6,118.9,9.6,20.8,29.3,5,5,25,"terrestrial, arboreal","Conant & Collins (1991)",0.84,-0.09,0.22,0,0
+195,"Plestiodon laticeps","Scincidae",109.7,167,15.7,33.9,46.5,5,5,14,"arboreal","Conant & Collins (1991)",1,0.71,0.55,0,0
+196,"Plestiodon longirostris","Scincidae",66.1,101.5,10,21.8,31.8,5,5,8,"terrestrial","Garman (1884)",0.92,-0.06,0.04,0,0
+197,"Plestiodon lynxe","Scincidae",58.7,82.8,6.7,13.6,18.8,5,5,11,,,0.73,-0.53,-0.2,0,
+198,"Plestiodon obsoletus ","Scincidae",105.7,161.2,12.7,27.7,34.8,5,5,20,"terrestrial, cryptic","Stebbins (1985), JJW",0.88,0.46,0.51,0,0
+199,"Plestiodon reynoldsi","Scincidae",54,57.5,4.2,2,6.6,1.1,2,19,"burrowing","Conant & Collins (1991)",-0.3,-1.07,-0.27,1,1
+200,"Prasinohaema virens","Scincidae",51,68.75,9.15,19,21.25,5,5,4,"arboreal","Cogger (1992)",0.94,-0.26,-0.41,1,0
+201,"Proscelotes eggeli","Scincidae",87,110.3,6.3,8.4,12.5,5,5,2,"burrowing","Spawls et al. (2002)",0.47,-0.38,0.1,0,1
+202,"Pygomeles braconnieri","Scincidae",139.1,88.2,7.4,0,3.5,0,1,9,"burrowing","Glaw & Vences (1994)",-1.02,0.06,0.37,1,1
+203,"Saiphos equalis","Scincidae",68,79.5,4.65,6,7.5,3,3,2,"burrowing","Cogger (1992)",0.11,-0.79,-0.17,1,1
+204,"Scelotes anguina","Scincidae",56.5,52.8,3.6,0,0,0,0,3,"burrowing","Rose (1950)",-1.44,-1.19,-0.18,1,1
+205,"Scelotes arenicola","Scincidae",68.8,59,3.8,0,0,0,0,13,"burrowing","Branch (1998)",-1.46,-1,-0.09,1,1
+206,"Scelotes bipes","Scincidae",47.9,39,3,0,3.1,0,2,2,"burrowing","Branch (1998)",-0.85,-1.54,-0.48,1,1
+207,"Scelotes caffer","Scincidae",46.7,59.5,2.8,2.8,8.5,3,3,2,"terrestrial, cryptic","Branch (1998)",-0.02,-1.58,-0.41,1,0
+208,"Scelotes gronovi","Scincidae",67.4,57.5,3.8,0,3.1,0,1,2,"burrowing","Branch (1998)",-1.04,-1.09,-0.05,1,1
+209,"Scelotes kasneri","Scincidae",64.8,54.9,4.4,0,6.6,0,2,2,"terrestrial, cryptic, burrowing?","Branch (1998)",-0.78,-1.02,-0.06,1,0
+210,"Scelotes mirus","Scincidae",75.3,88.5,4.7,5.9,11.5,5,5,3,"terrestrial, among grass","Branch (1998)",0.4,-0.75,-0.14,0,0
+211,"Scelotes sexlineatus","Scincidae",75.7,71.3,4.5,0,8.9,0,2,4,"burrowing","Branch (1998)",-0.82,-0.94,0.25,1,1
+212,"Scincopus fasciatus","Scincidae",150.5,95.3,21.9,43.9,47.7,5,5,13,"burrowing in sand","Schleich et al. (1996)",1.31,1.55,-0.29,0,1
+213,"Scincus scincus","Scincidae",117.2,77.6,16.6,31.6,37.7,5,5,5,"burrowing in sand","Schleich et al. (1996)",1.22,1.09,-0.48,0,1
+214,"Sepsina angolensis","Scincidae",71.1,63.7,4.1,2.4,7.4,3,3,6,"leaf litter, burrowing","Branch (1998)",0,-0.87,-0.39,1,1
+215,"Sphenops boulengeri","Scincidae",83.9,67.9,6.3,7.5,17.7,4.8,5,3,"burrowing in sand","Schleich et al. (1996)",0.64,-0.25,-0.49,0,1
+216,"Sphenops sphenopsiformis","Scincidae",98.3,49.8,6.9,4.4,15.8,2,4,1,"burrowing in sand","Schleich et al. (1996)",0.36,0.03,-0.73,1,1
+217,"Tiliqua adelaidensis","Scincidae",88.55,55.18,11.84,17.91,18.27,5,5,11,"terrestrial","Cogger (1992)",1.03,0.56,-0.84,0,0
+218,"Tribolonotus gracilis","Scincidae",70,73.5,12.2,24.5,33,5,5,2,"under vegetation near water","Hartdegen et al. (2001)",1.1,0.31,-0.4,0,0
+219,"Typhlacontias brevipes","Scincidae",94.5,35.7,4.2,0,0,0,0,12,"burrowing","Branch (1998)",-1.28,-0.43,-0.84,1,1
+220,"Typhlacontias punctatissimus","Scincidae",65.6,36.3,2.8,0,0,0,0,3,"burrowing","Branch (1998)",-1.38,-1.16,-0.74,1,1
+221,"Typhlosaurus caecus","Scincidae",190.1,29.4,4.1,0,0,0,0,8,"burrowing","Branch (1998)",-1.23,0.27,-1.3,1,1
+222,"Typhlosaurus lineatus lineatus","Scincidae",141.1,22.7,4.3,0,0,0,0,26,"burrowing","Branch (1998)",-1.13,0.13,-1.55,1,1
+223,"Voeltzkowia fierinensis","Scincidae",57.4,59.9,3,0,3.6,0,2,2,"burrowing","Glaw & Vences (1994)",-0.97,-1.52,0.04,1,1
+224,"Voeltzkowia lineata","Scincidae",64.6,54.7,3.1,0,0,0,0,8,"burrowing","Glaw & Vences (1994)",-1.48,-1.22,-0.19,1,1
+225,"Acrochordus granulatus","Serpentes",675.9,82.4,9.4,0,0,0,0,6,"aquatic","Zug et al. (2001)",-1.38,1.85,-0.23,1,0
+226,"Agkistrodon contortrix","Serpentes",677,97.4,14.4,0,0,0,0,6,"terrestrial","Contant & Collins (1991)",-1.33,2.2,0.03,1,0
+227,"Anilius scytale","Serpentes",725,25.2,9.3,0,0,0,0,5,"burrowing","JJW, Zug et al. (2001)",-1,2.33,-1.82,1,1
+228,"Calabaria reinhardtii","Serpentes",694.8,56.9,12.8,0,1.8,0,0.8,4,"burrowing","Grzimek encyclopedia",-0.86,2.23,-0.66,1,1
+229,"Candoia carinata","Serpentes",526.2,88.8,14.4,0,1,0,0.4,5,"arboreal, terrestrial","Austin (2000)",-1.1,1.96,0.01,1,0
+230,"Casarea dussumieri","Serpentes",496,187,8.2,0,0,0,0,1,,,-1.67,1.14,0.93,1,
+231,"Causus maculatus","Serpentes",486.8,37.6,10.8,0,0,0,0,9,"terrestrial","Spawls et al. (2002)",-1.09,1.96,-1.16,1,0
+232,"Cereberus rynchops","Serpentes",482.9,122.6,8.7,0,0,0,0,7,"aquatic","JJW, Zug et al. (2001)",-1.52,1.33,0.38,1,0
+233,"Charina bottae","Serpentes",406.8,53.8,8.2,0,0.6,0,0.6,5,"burrowing, terrestrial","Stebbins (1985)",-1.06,1.35,-0.64,1,0
+234,"Chondropython viridis","Serpentes",938.5,177.5,21.7,0,1.1,0,0.8,4,"arboreal","Cogger (1992)",-1.15,2.6,0.8,1,0
+235,"Cylindrophus maculatus","Serpentes",322.7,6.3,5.1,0,0,0,0,5,"burrowing","Zug et al. (2001)",-0.69,1.52,-3.48,1,1
+236,"Elaphe guttata","Serpentes",771,145.6,12.7,0,0,0,0,5,"terrestrial, arboreal","Conant & Collins (1991)",-1.49,2.05,0.51,1,0
+237,"Epircrates striatus","Serpentes",1213.6,240,22.6,0,3.9,0,1,5,"arboreal","Schwartz & Henderson (1991)",-1.09,2.76,1.16,2,0
+238,"Eryx johni","Serpentes",635.4,80.6,13.4,0,0.9,0,0.6,5,"burrowing","Zug et al. (2001)",-1.06,2.08,-0.18,1,1
+239,"Exiliboa plicata","Serpentes",360.3,55.3,6,0,1.4,0,1,4,"terrestrial","Zug et al. (2001)",-1.02,0.91,-0.58,1,0
+240,"Farancia abacura","Serpentes",931,123,11.6,0,0,0,0,5,"burrowing, semi-aquatic","Conant & Collins (1991)",-1.46,2.2,0.22,1,0
+241,"Leptotyphlops humilis","Serpentes",232.3,11.3,2.4,0,0,0,0,4,"burrowing","Stebbins (1985), Zug et al. (2001)",-1.05,0.29,-2.68,1,1
+242,"Loxocemus bicolor","Serpentes",595.3,72.2,10.5,0,0.7,0,0.8,4,"terrestrial","Zug et al. (2001)",-1.06,1.81,-0.33,1,0
+243,"Micrurus fulvius","Serpentes",673.2,79.9,8,0,0,0,0,5,"terrestrial","Conant & Collins (1991)",-1.41,1.71,-0.29,1,0
+244,"Nerodia sipedon","Serpentes",555.5,175.3,12.3,0,0,0,0,6,"semi-aquatic (for genus)","Conant & Collins (1991)",-1.56,1.65,0.85,1,0
+245,"Pareas kuangtungensis","Serpentes",438.3,127.2,7.4,0,0,0,0,3,"arboreal","Zug et al. (2001)",-1.57,1.07,0.45,1,0
+246,"Trachyboa boulengeri","Serpentes",287,32.7,6.8,0,0.4,0,0.2,6,"terrestrial, semi-aquatic","Zug et al. (2001)",-1.05,1.07,-1.22,1,0
+247,"Tropidophis haetianus","Serpentes",385.2,53.6,7.4,0,1.1,0,0.8,4,"terrestrial, arboreal","Schwartz & Henderson (1991)",-1.01,1.19,-0.63,1,0
+248,"Typhlops angolensis","Serpentes",403.9,7.5,6.2,0,0,0,0,5,"burrowing (for genus)","Zug et al. (2001)",-0.7,1.84,-3.29,1,1
+249,"Ungaliophis continentalis","Serpentes",458.1,60.5,7.7,0,1.5,0,0.5,2,"arboreal (for genus)","Savage (2002)",-1.07,1.37,-0.51,1,0
+250,"Uropeltis ceylonicus","Serpentes",266.4,13.2,5,0,0,0,0,5,"burrowing","Zug et al. (2001)",-0.93,1.05,-2.44,1,1
+251,"Xenopeltis unicolor","Serpentes",611.1,68.5,11.9,0,0,0,0,5,"""semi-fossorial"" use tunnels of other animals?","Zug et al. (2001)",-1.27,2.05,-0.43,1,0
+252,"Shinisaurus crocodilurus","Shinisauridae",135.5,162,18.5,40.7,48.9,5,5,4,"terrestrial, semi-aquatic","Zug et al. (2001)",1.09,1.09,0.44,0,0
+253,"Sphenodon punctatus","Sphenodontidae",216.7,206.1,36.4,62.9,87,5,5,4,"terrestrial, burrowing","Zug et al. (2001)",1.34,2.14,0.65,0,0
+254,"Ameiva ameiva","Teiidae",191.3,400.1,36.4,61.4,123.2,5,5,6,"terrestrial","JJW, Duellman (2005)",1.17,1.78,1.58,0,0
+255,"Aspidocelis sexlineatus","Teiidae",63.9,140.8,11,20.7,41.8,5,5,8,"terrestrial","JJW, Conant & Collins (1991)",0.86,-0.12,0.51,0,0
+256,"Dicrodon guttulatum","Teiidae",120.1,273.3,21.4,40.1,82.5,5,5,9,"terrestrial","Zug et al. (2001)",1.03,0.94,1.2,0,0
+257,"Teius teyou","Teiidae",115.6,247.3,19.2,34.4,72.4,5,4,4,"terrestrial","Zug et al. (2001)",0.94,0.84,1.08,0,0
+258,"Varanus griseus","Varanidae",303.5,355.3,37.1,73.9,90.4,5,5,3,"terrestrial","Zug et al. (2001)",1.2,2.29,1.25,0,0
+259,"Lepidophyma flavimaculatum","Xantusiidae",85.7,122.9,10.8,26.3,34.7,5,5,4,"terrestrial, cryptic","Savage (2002)",0.92,0.21,0.2,0,0
+260,"Xantusia vigilis","Xantusiidae",39.7,48.5,5,10.1,14,5,5,7,"terrestrial","Stebbins (1985)",0.73,-1.01,-0.79,0,0
+261,"Xenosaurus grandis","Xenosauridae",100.5,90.3,14.9,30.7,37.8,5,5,5,"terrestrial, saxicolous","JJW, Zug et al. (2001)",1.14,0.79,-0.24,0,0
