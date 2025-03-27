@@ -1,0 +1,15 @@
+ORF1 start: 4 stop: 73 length: 71 frame: 1 sequence: atgcgggcaagtccatcagagcccagccgtgtcggggtaatattcccggcaatgttaaaatcgcgaaactga
+ORF2 start: 55 stop: 73 length: 20 frame: 1 sequence: atgttaaaatcgcgaaactga
+ORF3 start: 241 stop: 286 length: 47 frame: 1 sequence: atgtgcactcatcaagctactgttctggttcgtggcgtccctatatga
+ORF4 start: 116 stop: 119 length: 5 frame: 2 sequence: atgtaa
+ORF5 start: 99 stop: 156 length: 59 frame: 3 sequence: atggccttagttttcgtatgtaacctacccgctaggtacactcgcccagacgatcgttaa
+ORF6 start: 186 stop: 204 length: 20 frame: 3 sequence: atgttaggttgcgtcgagtga
+ORF7 start: 285 stop: 303 length: 20 frame: 3 sequence: atgagccacctcttgctctag
+ORF8 start: 402 stop: 477 length: 77 frame: 3 sequence: atggccggctccaatacccggtgtggctctatagcgtatatggataggccaaaagtgtcgacaatacgggttccataa
+ORF9 start: 441 stop: 477 length: 38 frame: 3 sequence: atggataggccaaaagtgtcgacaatacgggttccataa
+ORF10 start: 16 stop: 154 length: 140 frame: 4 sequence: atgagattatggaacccgtattgtcgacacttttggcctatccatatacgctatagagccacaccgggtattggagccggccatacactatatgggaccccgcgttgcgcgacagggaacgtctttagcgggtatggttag
+ORF11 start: 107 stop: 167 length: 62 frame: 5 sequence: atgggaccccgcgttgcgcgacagggaacgtctttagcgggtatggttagttctcgagtctag
+ORF12 start: 149 stop: 167 length: 20 frame: 5 sequence: atggttagttctcgagtctag
+ORF13 start: 314 stop: 344 length: 32 frame: 5 sequence: atgattcttccttgcctgatcggagttgtttaa
+ORF14 start: 24 stop: 69 length: 47 frame: 6 sequence: atggaacccgtattgtcgacacttttggcctatccatatacgctatag
+ORF15 start: 249 stop: 291 length: 44 frame: 6 sequence: atgagtgcacatatagtggtatccaagtgctcaatacggtgctag

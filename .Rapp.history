@@ -1,0 +1,105 @@
+getwd()
+list.files()
+read.csv("anolisSSD.csv")
+anolis <- read.csv("anolisSSD.csv")
+anolis
+head(anolis)
+tail(anolis)
+plot(as.factor(anolis$ecomorph), anolis$logSSD)
+read.csv("anolisSSDsemicolon.csv")
+?read.table
+read.table("anolisSSDsemicolon.csv", sep=";")
+list.files()
+list.files("2023-01-31-DataIO/")
+read.table("2023-01-31-DataIO/anolisSSDsemicolon.csv", sep=";")
+list.files("2023-01-31-DataIO")
+readLines("2023-01-31-DataIO/20070725_01forirr.txt")
+temp <- readLines("2023-01-31-DataIO/20070725_01forirr.txt")
+head(temp)
+tail(temp)
+?head
+head(temp)
+head(temp, 20)
+dat <- read.table(file="20070725_01forirr.txt", skip=17, comment.char=">")#
+names(dat) <- c("lambda", "intensity")#
+head(dat)
+dat <- read.table(file="2023-01-31-DataIO/20070725_01forirr.txt", skip=17, comment.char=">")
+head(dat)
+tail(dat)
+dat <- read.table(file="2023-01-31-DataIO/20070725_01forirr.txt", skip=17)
+head(dat)
+tail(dat)
+dat <- read.table(file="2023-01-31-DataIO/20070725_01forirr.txt", skip=17, comment.char=">")
+head(dat)
+tail(dat)
+dat <- read.table(file="20070725_01forirr.txt", skip=17, comment.char=">")#
+names(dat) <- c("lambda", "intensity")#
+head(dat)
+dat <- dat[dat$lambda >= 300, ]  # cut off rows below 300nm#
+dat <- dat[dat$lambda <= 750, ]  #cut off rows above 750nm
+head(dat)
+tail(dat)
+write.csv(dat, "cleandata.csv")
+plot(iris$Sepal.Length, iris$Sepal.Width)
+spp <- unique(iris$Species)  # only unique values
+spp
+spp <- as.character(spp)     # factor -> character
+spp            # will not print to console when sourced
+print('Species names')  # will print
+print(spp)              # will print
+cat('\n', 'Species names =', spp)  # concatenate
+summary(iris)
+iris
+source("myscript.R")
+iris
+source("myscript.R")
+list.files()
+list.files("Data")
+dat <- read.csv ("Data/morphpre.csv")  # read in data
+head(dat)
+tail(dat)
+lm.HLSVL <- lm(dat$HandL ~ dat$SVL)   # run a linear
+lm.HLSVL
+summary(lm.HLSVL) # get summary statistics
+str(lm.HLSVL) # look at the linear model object
+coef(lm.HLSVL)[2] # get the slope of the regression
+plot(dat$HandL ~ dat$SVL, cex=2)    # make a plot with big dots (cex controls size of symbols)
+plot(dat$HandL ~ dat$SVL, cex=20)    # make a plot with big dots (cex controls size of symbols)
+plot(dat$HandL ~ dat$SVL, cex=5)    # make a plot with big dots (cex controls size of symbols)
+abline(lm.HLSVL, col="red")              # plots the regression line, in red
+title("Microhylid Hand Length vs Body Size")  # add a title
+text(x=15, y=13, paste("slope = ", coef(lm.HLSVL)[2]))
+source("testScript.R")
+savehistory(file = "Feb11-2025".Rhistory")
+savehistory(file = "Feb11-2025.Rhistory")
+save.history(file = "Feb11-2025.Rhistory")
+history(file = "Feb11-2025.Rhistory")
+ls
+ls()
+source("testScript.R")
+head(iris)		# iris is a built-in dataset. Print first few lines to screen
+names(iris)
+dim(iris)
+?dim
+plot(iris$Sepal.Length, iris$Sepal.Width)
+unique(iris$Species)
+iris$Species
+head(iris)
+iris$Species
+unique(iris$Species)
+iris$Species
+spp <- unique(iris$Species)  # only unique values
+spp
+spp <- as.character(spp)     # factor -> character
+spp
+print('Species names')  # will print#
+print(spp)              # will print
+cat('\n', 'Species names =', spp)  # concatenate
+summary(iris)
+?rm
+rm(list=ls())
+ls()
+dat <- iris
+ls()
+rm(list=ls())
+ls()
